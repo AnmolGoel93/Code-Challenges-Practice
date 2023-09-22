@@ -1,0 +1,13 @@
+.toggle_event {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  flex-direction: column;
+}
+
+.toggle_event button {
+  padding: 20px 25px;
+  cursor: pointer;
+  font: inherit;
+}

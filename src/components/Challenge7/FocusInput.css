@@ -1,0 +1,18 @@
+input,
+label {
+  display: block;
+  margin: 8px auto;
+}
+
+input {
+  padding: 8px;
+  width: 300px;
+}
+
+label {
+  text-align: center;
+}
+
+input[type="submit"] {
+  width: 100px;
+}

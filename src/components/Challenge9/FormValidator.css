@@ -1,0 +1,37 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+input,
+label {
+  display: block;
+}
+
+label {
+  text-align: center;
+  margin-bottom: 5px;
+  font: inherit;
+}
+
+input {
+  padding: 5px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  width: 18rem;
+}
+
+form p {
+  margin: 0;
+}
+
+button[type="submit"] {
+  margin-top: 10px;
+  padding: 5px 25px;
+}

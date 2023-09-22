@@ -1,0 +1,38 @@
+.dark-mode {
+  background-color: #222020;
+}
+
+.light-mode {
+  background-color: white;
+}
+
+.default {
+  width: 100%;
+  height: 100vh;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.actions button {
+  cursor: pointer;
+  padding: 15px 20px;
+  font-weight: bold;
+}
+
+.dark-btn {
+  color: white;
+  border: 2px solid white;
+  background-color: #222020;
+  margin-right: 20px;
+}
+
+.light-btn {
+  color: #222020;
+  border: 2px solid #222020;
+  background-color: white;
+}

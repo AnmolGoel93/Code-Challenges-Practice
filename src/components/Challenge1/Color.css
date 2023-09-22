@@ -1,0 +1,8 @@
+.color-square {
+  display: inline-block;
+  color: white;
+  padding: 40px;
+  margin: 10px;
+  width: 300px;
+  text-align: center;
+}
